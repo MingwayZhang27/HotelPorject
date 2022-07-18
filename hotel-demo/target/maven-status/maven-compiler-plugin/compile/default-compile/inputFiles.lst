@@ -1,0 +1,13 @@
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\constants\HotelIndexConstants.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\constants\HotelMqConstants.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\pojo\HotelDoc.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\mq\HotelListener.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\HotelDemoApplication.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\pojo\PageResult.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\service\impl\HotelService.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\mapper\HotelMapper.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\pojo\Hotel.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\config\MqConfig.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\pojo\RequestParams.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\web\HotelController.java
+G:\springcloud\lesson\hotel-demo\src\main\java\cn\itcast\hotel\service\IHotelService.java
